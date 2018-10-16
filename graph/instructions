@@ -1,0 +1,3 @@
+After simulation is complete copy all the temperature values(6400 nos) from T in 1 directory.
+Paste in the matlab variable editor. u may modify the exixting variable or create new variable.
+Remember to change the name accordingly.
